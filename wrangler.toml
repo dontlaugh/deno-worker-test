@@ -1,0 +1,7 @@
+name = "denotest"
+type = "javascript"
+zone_id = "0ca4c6d4459f94b066327441caa07d8b"
+private = false
+account_id = "b6b3f3f04c021fd194fc407a75686f52"
+route = "de.limited/denotest"
+
